@@ -1,0 +1,5 @@
+- 👋 Hi, I’m M.Tahir ☺️
+- 👀 I’m software Developer expertise in backend development.
+- 🌱 I’m currently working on PHP-Laravel(9).
+- 💞️ I’m looking to working on server side deployment.
+- 📫 How to reach me tahir.klabs@gmail.com.
